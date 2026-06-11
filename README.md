@@ -1,6 +1,8 @@
 # WECAS - TARGET CRACK TOOL
 
-An advanced cracking tool with a stylish menu interface. This tool features an interactive menu, automated screen clearing, and colorful ASCII art.
+Facebook Target Crack New 2026 Tools
+With these tools, you can crack your target account.
+Note: You must have a password list file..
 
 ## Installation & Usage inside Termux
 
